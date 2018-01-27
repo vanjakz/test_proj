@@ -1,4 +1,4 @@
-#!Maybe this is not the clearest code, but it is grown from simple player vs. player mode.
+#Maybe this is not the clearest code, but it is grown from simple player vs. player mode.
 #This project is not so important to make it perfect, but most of iterations are built in functions
 #Good Architecture of the code is shown in the last "startgame" function
 #I have not used Classes here - only existing objects and functions
